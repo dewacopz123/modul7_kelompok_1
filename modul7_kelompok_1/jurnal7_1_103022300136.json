@@ -1,0 +1,15 @@
+{
+   "firstName": "Khalish",
+   "lastName": "Wiriadinata",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "SukaBirus",
+       "city": "Bandung",
+       "state": "Jawa Barat"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C6", "name": "BasisData" }
+   ]
+}
