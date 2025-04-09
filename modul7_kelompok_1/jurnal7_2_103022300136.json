@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Khalish",
+       "lastName": "Wiriadinata",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300136"
+    },
+    {
+       "firstName": "Fadhli",
+       "lastName": "Achasan",
+       "gender": "male",
+       "age": 21,
+       "nim": "103022300018"
+    },
+    {
+        "firstName": "Zakky",
+        "lastName": "Al-Fahrizy",
+        "gender": "male",
+        "age": 20,
+        "nim": "103022300051"
+    }
+    {
+        "firstName": "akbar",
+        "lastName": "Alfarizi",
+        "gender": "male",
+        "age": 20,
+        "nim": "103022300051"
+    }
+  ]
+}
