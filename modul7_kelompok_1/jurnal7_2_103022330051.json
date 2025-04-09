@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "khalis",
+       "lastName": "gatau",
+       "gender": "male",
+       "age": 20,
+       "nim": "1030223000"
+    },
+    {
+       "firstName": "akbar",
+       "lastName": "alfarizi",
+       "gender": "male",
+       "age": 20,
+       "nim": "1030223000"
+    },
+    {
+       "firstName": "fadli",
+       "lastName": "achsan",
+       "gender": "male",
+       "age": 20,
+       "nim": "1030223000"
+    }
+  ]
+}
